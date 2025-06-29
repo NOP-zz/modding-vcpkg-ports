@@ -1,5 +1,5 @@
 # Vcpkg Repository
-This is a forked repository of Color-Glass software and related third-party libraries for use with Vcpkg. It adds a ready to use vcpkg port for the ng branch of alandtse's github.com/alandtse/CommonLibVR/tree/ng
+This is a forked repository of Color-Glass software and related third-party libraries for use with Vcpkg. It adds a ready to use vcpkg port for the ng branch of alandtse's [Commonlib NG](github.com/alandtse/CommonLibVR/tree/ng).
 
 ## Use in Manifest Mode
 To add to your project create a file in the root of your project (next to `vcpkg.json`) called
